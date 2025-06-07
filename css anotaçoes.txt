@@ -1,0 +1,58 @@
+
+css da esquerda pra diereita
+
+
+
+* atributo para reset
+
+
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;   - deixe tudo dentro da caixa
+    background: none;
+    border: 0;
+    text-decoration: none;
+}
+
+
+
+DICAS:
+
+
+border: 1px solid black; - PRA SABER SE O CSS ESTA FUNCIONANDO CORRETO
+
+
+
+Display flex: Tornar o elemento flexível  - deixa tudo em linha - row(linha) 
+flex-direction: column - quando eu adicono o display flex e quero deixar em coluna ao invés de linha
+
+
+justify-contente - horizontalmente - linha - x  - esquerda pra direita - se eu quiser deixar no meio  horizontalmente. Em row eu uso o justifify
+
+align items - verticalmente - y - ou seja pra cima e pra baixo - se eu quiser deixar no centro verticalmente. em coluna eu uso o align 
+
+
+gap - espaça os elementos que tiver na tela  - pra usar o gap preciso ter o display flex
+
+
+header > img {  - quando um elemento for filho, exemplo minha imagem esta dentro de header, que vai receber primeiro o estilo do header e depois recebe sua estilização 
+
+}
+
+
+ width: - largura
+ height: - altura
+
+padding: 60px 0;  - padding é interno, e funciona cima e baixo o primeiro numero, esquerda direita o segundo numero. NO caso, 60px cima e embaixo. E 0 esquerda direita
+
+margin - espaçamento externo
+
+border: - borda interna da imagem
+outline: - borda externa da imagem
+
+border-radius: 160px; - se quiser uma bordar 100%, coloca o tamanho e altura da imagem. 
+
+
+Sempre usar números PARES para o CSS

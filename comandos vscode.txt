@@ -1,0 +1,2 @@
+ctrl + b - abre e fecha as pastas
+

@@ -1,0 +1,34 @@
+Atributo Global - poder ser acessada por qualquer tag
+
+ctrl + ; - comentário
+
+rel = o que eu sou
+href = onde eu estou 
+
+https - absoluto
+./ - relativo
+ <link rel="stylesheet" href="./stytle.css>
+
+
+
+autorename tag - extensão vscode
+
+
+
+lorem 2 - palavras em ladim
+
+lorem*4 - 4 paragrafos
+
+
+
+spam - agrupador em iline
+
+
+tag loading=lazy - a imagem so carrega quando o usuario chegar perto dela
+
+tag loading=easer - 
+
+
+h1{texto} - cria a tag com o texto dentro ja 
+
+

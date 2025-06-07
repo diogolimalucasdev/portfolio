@@ -1,0 +1,7 @@
+svg - não tem pixel, feito em laboratório podemos esticar e diminuir
+
+png - para fotos, tem pixel, consegue deixar sem fundo
+
+jpg - jpg é mais leve mas não consegue eliminar o fundo
+
+webp - 
